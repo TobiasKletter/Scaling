@@ -1,0 +1,4 @@
+run("Gaussian Blur...", "sigma=2 stack");
+run("Z Project...", "stop=50 projection=[Sum Slices]");
+run("Grays");
+run("Enhance Contrast", "saturated=0.35");
