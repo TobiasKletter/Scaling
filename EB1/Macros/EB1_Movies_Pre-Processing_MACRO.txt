@@ -1,0 +1,4 @@
+getDimensions(width, height, channels, slices, frames);
+
+run("Subtract Background...", "rolling=1 stack");
+run("Properties...", "channels=channels slices=slices frames=frames pixel_width=0.1377745 pixel_height=0.1377745 voxel_depth=1.0000000 frame=[0.40 sec]");
