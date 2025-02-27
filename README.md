@@ -34,6 +34,7 @@ Experiments are grouped into subfolders and per usual contain various scripts.
 ## Usage
 - Image analysis scripts (`.ijm` files) should be run in **Fiji (ImageJ)** for preprocessing and quantifying microscopy images.
 - Data analysis scripts (`.ipynb` files) should be executed in **Jupyter Notebook** for statistical analysis and visualisation.
+- (TODO) Image data is provided under the BioStudies [Accession Number]  
 - Note: scripts are highly customised. Please feel encouraged to contact me for assistance. 
 
 ## Citation
