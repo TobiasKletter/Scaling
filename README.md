@@ -34,13 +34,13 @@ Experiments are grouped into subfolders and per usual contain various scripts.
 ## Usage
 - Image analysis scripts (`.ijm` files) should be run in **Fiji (ImageJ)** for preprocessing and quantifying microscopy images.
 - Data analysis scripts (`.ipynb` files) should be executed in **Jupyter Notebook** for statistical analysis and visualisation.
-- (TODO) Image data is provided under the BioStudies [Accession Number]  
+- Image data is provided under the BioStudies S-BIAD1680, DOI 10.6019/S-BIAD1680  
 - Note: scripts are highly customised. Please feel encouraged to contact me for assistance. 
 
 ## Citation
-If you use these scripts in your research, please cite our preprint:
+If you use these scripts in your research, please cite our paper:
 
-> Cell State-Specific Cytoplasmic Material Properties Control Spindle Architecture and Scaling
+> Cell State-Specific Cytoplasmic Density Control Spindle Architecture and Scaling
 
 > Tobias Kletter, Omar Muñoz, Sebastian Reusch, Abin Biswas, Aliaksandr Halavatyi, Beate Neumann, Benno Kuropka, Vasily Zaburdaev, Simone Reber
-bioRxiv 2024.07.22.604615; doi: https://doi.org/10.1101/2024.07.22.604615 
+(2025) Nature Cell Biology, 10.1038/s41556-025-01678-x 
